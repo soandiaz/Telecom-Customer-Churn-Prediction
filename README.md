@@ -116,7 +116,7 @@ pickle
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/<your-username>/Telecom-Customer-Churn-Prediction.git
+git clone https://github.com/soandiaz/Telecom-Customer-Churn-Prediction.git
 cd Telecom-Customer-Churn-Prediction
 ```
 
@@ -125,10 +125,8 @@ cd Telecom-Customer-Churn-Prediction
 Open the `colab_code/churn_model.ipynb` file in Google Colab to view preprocessing and model training steps.
 
 ### **3️⃣ Run the Streamlit App**
-
+open `terminal`
 ```bash
-cd streamlit_app
-pip install -r requirements.txt
 streamlit run app.py
 ```
 
